@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi there! 👋 I'm Luke
 
-<!--
-**lukemonaghan/lukemonaghan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about pushing the boundaries of what's possible and building interactivity into everyday life.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Throughout my career, I've had the opportunity to work on a wide range of projects and products, including:
+
+* 📱 Mobile Games and Applications
+* 💻 PC Games and Experiences
+* 👓 AR/VR Games and Experiences
+* 🎨 UX/UI Design
+* ☁️ PaaS Platforms
+
+I'm always eager to explore and master new technologies! Below you'll find a snapshot of the tools I use to bring ideas to life
+
+* 🎮 Unity
+* ☁️ AWS (Amazon Web Services)
+* 💙 Flutter
+* 💻 C#
+* 🌐 JavaScript
+* 📦 Docker
+* 📊 SQL
+* 📜 HTML
+* 🎨 CSS
+* ⚛️ React & React Native
+* 🎨 Figma
+* 💡 Miro
+
+## What I'm Currently Up To
+
+In my free time, I'm a passionate tinkerer. I love diving into projects that combine technology with creativity. Whether it's:
+
+* 🛠️ Building custom electronics
+* 🖨️ Experimenting with 3D printing
+* 💻 Learning new programming languages
+
+I'm always looking for new ways to push my boundaries and learn something new.
+
+## My Interests
+
+I also have a deep appreciation for nature and enjoy spending time outdoors:
+
+* 🌱 Gardening
+* 🐠 Looking after my many fish
+* 🐈 Hanging out with my cats
+* 🏞️ Exploring nature's beauty
+* 🚗 Learning about cars
+
+## Let's Connect!
+
+If anything here interests you, or if you have an amazing project you'd like to discuss, I'd love to hear from you as i'm always excited to connect with like-minded individuals and explore new possibilities.
+
+Feel free to browse my repositories and don't hesitate to reach out. Let's build something amazing together!
