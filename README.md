@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Luke
 
-Welcome to my GitHub profile! I'm passionate about pushing the boundaries of what's possible and building interactivity into everyday life.
+Welcome to my GitHub profile! Tech enthusiast, Builder, Creator, Connector. 
 
 ## About Me
 
@@ -31,11 +31,11 @@ I'm always eager to explore and master new technologies! Below you'll find a sna
 
 In my free time, I'm a passionate tinkerer. I love diving into projects that combine technology with creativity. Whether it's:
 
+* 📱 Working on personal mobile applications
+* ☁️ Creating Cloud test projects
 * 🛠️ Building custom electronics
 * 🖨️ Experimenting with 3D printing
 * 💻 Learning new programming languages
-
-I'm always looking for new ways to push my boundaries and learn something new.
 
 ## My Interests
 
